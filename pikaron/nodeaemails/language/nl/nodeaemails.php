@@ -36,5 +36,5 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 		'NO_DEA_EMAILS_INSTALL_ERROR'		=> '“Geen DEA e-mails” kan niet worden geïnstalleerd.<br><br>- PhpBB 3.2.4 of hoger is vereist.',
 		'NO_DEA_EMAILS_NO_CURL'				=> '“Geen DEA e-mails” kan niet worden geïnstalleerd.<br><br>- Is benodigd: PHP "curl" extensie geladen.',
-		'NO_DEA_EMAILS_FOUND'				=> 'FOUT: Het ((%s)) E-mail DOMEIN is niet geldig.<br>Onze website ondersteunt GEEN wegwerp of tijdelijke e-mailaccounts <a href="https://bit.ly/2LBsbqe" target="_blank">(DEA)</a>.<br>Als u wilt registreren op onze website, moet u een niet-wegwerpbaar e-mailaccount gebruiken.',
+		'NO_DEA_EMAILS_FOUND'				=> 'FOUT: Het ((%s)) E-mail DOMEIN is niet geldig.<br>Onze website ondersteunt GEEN wegwerp of tijdelijke e-mailaccounts <a href="https://bit.ly/2LBsbqe" target="_blank">(DEA)</a>.<br>Als u wilt registreren op onze website moet u een niet wegwerpbaar e-mailaccount gebruiken.',
 ));
